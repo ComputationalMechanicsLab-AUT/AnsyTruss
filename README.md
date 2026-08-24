@@ -6,12 +6,13 @@ The tool is designed to support teaching and learning in engineering mechanics b
 
 ## Purpose
 
-AnsyTruss-2D was developed to help students better connect theoretical truss analysis concepts with visual and computational results. It provides an interactive environment where users can enter truss data, modify models, observe behaviour, and generate analysis reports.
+AnsyTruss-2D was developed to help students connect theoretical truss analysis concepts with visual and computational results. It provides an interactive environment where users can enter truss data, modify models, observe structural behaviour, and generate analysis reports.
 
 ## Main Features
 
 - Define node coordinates
 - Define truss links/members
+- Assign material and sectional properties
 - Assign support conditions
 - Apply nodal loads
 - Verify truss geometry before analysis
@@ -19,6 +20,17 @@ AnsyTruss-2D was developed to help students better connect theoretical truss ana
 - View nodal displacements, axial forces, and support reactions
 - Visualise deformed and undeformed truss shapes
 - Export PDF analysis reports
+
+## Downloads
+
+Compiled application files are available from the **Releases** section of this repository.
+
+Available packages may include:
+
+- Windows standalone installer: `AnsyTruss-2D_Windows_Installer.exe`
+- MATLAB app installer: `AnsyTruss-2D.mlappinstall`
+
+> MATLAB source code is not publicly distributed in this repository.
 
 ## Documentation
 
@@ -30,9 +42,11 @@ AnsyTruss-2D was developed to help students better connect theoretical truss ana
 
 ## Screenshots
 
+### GUI Overview
+
 ![GUI Overview](screenshots/GUI.png)
 
-### Input data
+### Input Data
 
 ![Input data](screenshots/Input_table.png)
 
@@ -43,11 +57,6 @@ AnsyTruss-2D was developed to help students better connect theoretical truss ana
 ### Deformed Truss Result
 
 ![Deformed Truss Result](screenshots/Deformed_plot.png)
-## Availability
-
-Compiled releases will be provided through the **Releases** section of this repository.
-
-> The MATLAB source code is not publicly distributed in this repository.
 
 ## Copyright
 
