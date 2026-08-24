@@ -32,6 +32,10 @@ AnsyTruss-2D was developed to help students better connect theoretical truss ana
 
 ![GUI Overview](screenshots/GUI.png)
 
+### Input data
+
+![Input data](screenshots/Input_table.png)
+
 ### Verification Geometry
 
 ![Verification Geometry](screenshots/Verification_plot.png)
