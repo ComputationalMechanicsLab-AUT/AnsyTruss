@@ -22,7 +22,7 @@ AnsyTruss-2D was developed to help students better connect theoretical truss ana
 
 ## Documentation
 
-- [User Manual](docs/AnsyTruss-2D_User_Manual.pdf)
+- [User Manual](docs/AnsyTruss%202D%20User%20Manual.pdf)
 
 ## Example Report
 
