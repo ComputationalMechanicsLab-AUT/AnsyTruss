@@ -28,7 +28,6 @@ Compiled application files are available from the **Releases** section of this r
 Available packages may include:
 
 - Windows standalone installer: `AnsyTruss-2D_Windows_Installer.exe`
-- MATLAB app installer: `AnsyTruss-2D.mlappinstall`
 
 > MATLAB source code is not publicly distributed in this repository.
 
