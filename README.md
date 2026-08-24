@@ -32,6 +32,13 @@ AnsyTruss-2D was developed to help students better connect theoretical truss ana
 
 ![GUI Overview](screenshots/GUI.png)
 
+### Verification Geometry
+
+![Verification Geometry](screenshots/Verification_plot.png)
+
+### Deformed Truss Result
+
+![Deformed Truss Result](screenshots/Deformed_plot.png)
 ## Availability
 
 Compiled releases will be provided through the **Releases** section of this repository.
