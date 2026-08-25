@@ -25,7 +25,7 @@ AnsyTruss-2D was developed to help students connect theoretical truss analysis c
 
 Download the latest version from the [GitHub Releases page](https://github.com/ComputationalMechanicsLab-AUT/AnsyTruss-2D/releases).
 
-Available package may includes:
+Available package includes:
 
 - Windows standalone installer: `AnsyTruss-2D_Windows_Installer.exe`
 
