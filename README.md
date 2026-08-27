@@ -47,7 +47,7 @@ Available package includes:
 
 ### Input Data
 
-![Input_table](screenshots/Input_data.png)
+![Input_table](screenshots/Input_table.png)
 
 ### Verification Geometry
 
