@@ -47,15 +47,15 @@ Available package includes:
 
 ### Input Data
 
-![Input_table](screenshots/Input_table.png)
+![Input_table](screenshots/input.png)
 
 ### Verification Geometry
 
-![Verification Geometry](screenshots/Verification_plot.png)
+![Verification Geometry](screenshots/Verify.png)
 
 ### Deformed Truss Result
 
-![Deformed Truss Result](screenshots/Deformed_plot.png)
+![Deformed Truss Result](screenshots/results.png)
 
 ## Copyright
 
