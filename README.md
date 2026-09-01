@@ -37,7 +37,7 @@ Available package includes:
 
 ## Example Report
 
-- [Sample PDF Report](examples/AnsyTruss_report.pdf)
+- [Sample PDF Report](examples/AnsyTruss_Report.pdf)
 
 ## Screenshots
 
