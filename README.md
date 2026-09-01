@@ -45,6 +45,10 @@ Available package includes:
 
 ![GUI Overview](screenshots/GUI.png)
 
+### GUI Overview
+
+![Sample](screenshots/example.png)
+
 ### Input Data
 
 ![Input_table](screenshots/input.png)
