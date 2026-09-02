@@ -1,7 +1,6 @@
 <p align="center">
   <img src="screenshots/logo.png" width="600">
 </p>
-
 # AnsyTruss v1.0.0
 
 **AnsyTruss** is a MATLAB-based educational tool for interactive two-dimensional truss analysis, visualisation, and reporting.
